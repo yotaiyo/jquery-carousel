@@ -1,0 +1,12 @@
+.image {
+  float: left;
+}
+
+.main {
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel {
+  position: absolute;
+}
